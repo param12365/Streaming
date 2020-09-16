@@ -16,10 +16,10 @@ async def on_ready():
     print(bot.user.name)
     print("Everything's all ready to go~")
     while True:
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with YAHOO TRIVIA...!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with Epic Team...!"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with ÃmìT RØY®#8848"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟#4217 "))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with HQ GOOGLE BOT...!"))
@@ -463,4 +463,4 @@ async def suggest(ctx):
 	# 	await ctx.send("**Lol You Not Have Permission To use this commands**:wink: "+ctx.author.mention)
 		
 
-bot.run("NDk0NDY0NDM3MzE1NTY3NjM2.XzSQug.rM8yNCgsX7ivIh42NXzxdNtEXtY") # Where 'TOKEN' is 
+bot.run("NzU1NzM3MDEwOTQxMDY3MjY0.X2IGVg.sSnYzZCRg6wNhbDYDeon_ZvfX4w") # Where 'TOKEN' is 
