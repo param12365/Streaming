@@ -16,13 +16,13 @@ async def on_ready():
     print(bot.user.name)
     print("Everything's all ready to go~")
     while True:
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Trivia Zonex...!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with YAHOO TRIVIA...!"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟#4217"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with ÃmìT RØY®#8848"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Virat Bhai...!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with HQ GOOGLE BOT...!"))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=1,name="with HQ TRIVIA....!"))
@@ -34,13 +34,13 @@ async def on_ready():
     	await bot.change_presence(activity=discord.Activity(type=1,name="with SWAG IQ..!"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with Savan Bhai...!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with MAIL+BOT...!"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=1,name="with  $idd Bhai...!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="with  AMIT ROY...!"))
     	await asyncio.sleep(5)
     	
-    	await bot.change_presence(activity=discord.Activity(type=2,name="with Saurabh Bhai..."))
+    	await bot.change_presence(activity=discord.Activity(type=2,name="with PARKASH..."))
     	await asyncio.sleep(5)
     	
     	await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=f'''{len(bot.guilds)} servers'''))
@@ -129,7 +129,7 @@ async def end(ctx,game:str):
 		embed.add_field(name='Game',value=f'**{game}.upper()**',inline=True)
 		embed.set_thumbnail(url=url)
 		embed.set_image(url="https://cdn.discordapp.com/attachments/610979650394390528/610980511006851083/animated-chain-line.gif")
-		embed.set_footer(text="ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟#4217",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
+		embed.set_footer(text="KESHAV RAJ ᴳᵒᵈ#7735",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
 		await ctx.send(content="@everyone :warning:",embed=embed)
 	else:
 		await ctx.send("**Lol You Not Have Permission To use this commands**:joy: "+ctx.author.mention)
@@ -164,7 +164,7 @@ async def brainbaazi(ctx,accuracy:str,prize_won:str,last_question_status:str,res
 		embed.add_field(name="Brain Baazi",value=f"**Accuracy: {accuracy}{check}\nPrize Won: {prize_won} :moneybag:\nLast Question status: {last_question_status}{check}\nGame Status: {result} {emoji}**")
 		embed.set_thumbnail(url="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/da/17/fcda17ed-f0b6-6067-ecc4-d9641fed234c/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-5.png/246x0w.jpg")
 		embed.set_image(url="https://cdn.discordapp.com/attachments/610979650394390528/610980511006851083/animated-chain-line.gif")
-		embed.set_footer(text="ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟#4217",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
+		embed.set_footer(text="KESHAV RAJ ᴳᵒᵈ#7735",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
 		await ctx.send(content="@everyone <:emoji_16:606076148371292160>",embed=embed)
 	else:
 		await ctx.send("**Lol You Not Have Permission To use this commands**:joy: "+ctx.author.mention)
@@ -187,7 +187,7 @@ async def loco(ctx,accuracy:str,prize_won:str,last_question_status:str,result:st
 		embed.add_field(name="Loco",value=f"**Accuracy: {accuracy}{check}\nPrize Won: {prize_won} :moneybag:\nLast Question status: {last_question_status}{check}\nGame Status: {result} {emoji}**")
 		embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/596710160035217408/597750968528142337/giphy.gif")
 		embed.set_image(url="https://cdn.discordapp.com/attachments/610979650394390528/610980511006851083/animated-chain-line.gif")
-		embed.set_footer(text="ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟#4217",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
+		embed.set_footer(text="KESHAV RAJ ᴳᵒᵈ#7735",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
 		await ctx.send(content="@everyone <:emoji_16:606076148371292160>",embed=embed)
 	else:
 		await ctx.send("**Lol You Not Have Permission To use this commands**:joy: "+ctx.author.mention)
@@ -209,7 +209,7 @@ async def hq(ctx,accuracy:str,prize_won:str,last_question_status:str,result:str)
 		embed.add_field(name="HQ Trivia",value=f"**Accuracy: {accuracy}{check}\nPrize Won: {prize_won} :moneybag:\nLast Question status: {last_question_status}{check}\nGame Status: {result} {emoji}**")
 		embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/578965576651898890/595173694670635019/SAVE_20190426_203902.gif")
 		embed.set_image(url="https://cdn.discordapp.com/attachments/610979650394390528/610980511006851083/animated-chain-line.gif")
-		embed.set_footer(text="ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟#4217",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
+		embed.set_footer(text="KESHAV RAJ ᴳᵒᵈ#7735",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
 		await ctx.send(content="@everyone <:emoji_16:606076148371292160>",embed=embed)
 	else:
 		await ctx.send("**Lol You Not Have Permission To use this commands**:joy: "+ctx.author.mention)
@@ -232,7 +232,7 @@ async def trivaa(ctx,accuracy:str,prize_won:str,last_question_status:str,result:
 		embed.add_field(name="Trivaa",value=f"**Accuracy: {accuracy}{check}\nPrize Won: {prize_won} :moneybag:\nLast Question status: {last_question_status}{check}\nGame Status: {result} {emoji}**")
 		embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/557650994897485834/594847560326447126/IMG_20190426_203621.jpg")
 		embed.set_image(url="https://cdn.discordapp.com/attachments/610979650394390528/610980511006851083/animated-chain-line.gif")
-		embed.set_footer(text="ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟#4217",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
+		embed.set_footer(text="KESHAV RAJ ᴳᵒᵈ#7735",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
 		await ctx.send(content="@everyone <:emoji_16:606076148371292160>",embed=embed)
 	else:
 		await ctx.send("**Lol You Not Have Permission To use this commands**:joy: "+ctx.author.mention)
@@ -439,7 +439,7 @@ async def f_error(ctx,error):
     if isinstance(error,commands.CheckFailure):
     	embed=discord.Embed(title="Mass DM",description="**Lol You Not Have Permission To Use This Cmd!** :joy: ",colour=0x142c9c)
     	embed.set_image(url="https://cdn.discordapp.com/attachments/610979650394390528/610980511006851083/animated-chain-line.gif")
-    	embed.set_footer(text="Made By ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟#4217")
+    	embed.set_footer(text="Made By KESHAV RAJ ᴳᵒᵈ#7735")
     	await ctx.send(embed=embed)
     if isinstance(error,commands.MissingRequiredArgument):
     	await ctx.send(f"Please say a message to send!")
@@ -457,10 +457,10 @@ async def suggest(ctx):
 	embed.add_field(name="Permisson For Bot User",value="`NATION COMMAND` Role Required")
 	embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
 	embed.set_image(url="https://cdn.discordapp.com/attachments/610979650394390528/610980511006851083/animated-chain-line.gif")
-	embed.set_footer(text="ˢᵖ༒❤P⃠𝙖 𝙧 𝙖 𝙢⍟#42175",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
+	embed.set_footer(text="KESHAV RAJ ᴳᵒᵈ#7735",icon_url="https://cdn.discordapp.com/attachments/609581567135842314/609581613155876884/JPEG_20190810_062642.jpg")
 	await ctx.send(embed=embed)
 	# else:
 	# 	await ctx.send("**Lol You Not Have Permission To use this commands**:wink: "+ctx.author.mention)
 		
 
-bot.run("NzU1NzM3MDEwOTQxMDY3MjY0.X2IGVg.sSnYzZCRg6wNhbDYDeon_ZvfX4w") # Where 'TOKEN' is 
+bot.run("NDk0NDY0NDM3MzE1NTY3NjM2.XzSQug.rM8yNCgsX7ivIh42NXzxdNtEXtY") # Where 'TOKEN' is 
